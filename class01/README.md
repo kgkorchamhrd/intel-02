@@ -47,18 +47,18 @@
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 07 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 08 SongGiChan (gichan-song) | n/a | - | - | - | - | - | max5982 |
-| 09 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 10 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 11 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 09 ShinHyunTaek (shinht97) | n/a | - | - | - | - | - | max5982 |
+| 10 AhnHyojae (MobilSuper) | n/a | - | - | - | - | - | max5982 |
+| 11 UmJaeShik (umjaeshik) | n/a | - | - | - | - | - | max5982 |
 | 12 OhHeungCheon (OThinking) | n/a | - | - | - | - | - | max5982 |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 15 LeeWonHee (ghkfkd1) | n/a | - | - | - | - | - | max5982 |
-| 16 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 17 LimWooSub (vvsuby) | n/a | - | - | - | - | - | mokiya |
-| 18 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 16 LimMinWoo (lmw7060) | n/a | - | - | - | - | - | mokiya |
+| 17 LimWooSub (vvsuby) | n/a | - | - | - | - | - | mokiya|
+| 18 HanHeeJun (mylittlebluebird) | n/a | - | - | - | - | - | max5982 |
 | 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 20 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 20 HuhHwanWook (BrotherHwan) | n/a | - | - | - | - | - | mokiya |
 | 21 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 22 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 23 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
