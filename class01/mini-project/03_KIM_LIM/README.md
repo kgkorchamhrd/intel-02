@@ -12,6 +12,6 @@
   | 김정문 | Project Manager, 프로젝트 매니저 |
   | 임민우 | Project Leader, 프로젝트 리더 |
 
-* Project Github : https://github.com/  
+* Project Github : https://github.com/JEONGMOONKIM/mini_p.git
 
 * 발표자료 : https://github.com/   
