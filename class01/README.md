@@ -51,13 +51,13 @@
 | 10 AhnHyojae (MobilSuper) | n/a | - | - | - | - | - | max5982 |
 | 11 UmJaeShik (umjaeshik) | n/a | - | - | - | - | - | max5982 |
 | 12 OhHeungCheon (OThinking) | n/a | - | - | - | - | - | max5982 |
-| 13 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 13 LeeGawon (joomong0126)| n/a | - | - | - | - | - | max5982 |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 15 LeeWonHee (ghkfkd1) | n/a | - | - | - | - | - | max5982 |
 | 16 LimMinWoo (lmw7060) | n/a | - | - | - | - | - | mokiya |
 | 17 LimWooSub (vvsuby) | n/a | - | - | - | - | - | mokiya|
 | 18 HanHeeJun (mylittlebluebird) | n/a | - | - | - | - | - | max5982 |
-| 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 19 HeoJinHo (jinhoheoo) | n/a | - | - | - | - | - | max5982 |
 | 20 HuhHwanWook (BrotherHwan) | n/a | - | - | - | - | - | mokiya |
 | 21 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 22 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
