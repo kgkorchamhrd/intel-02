@@ -10,3 +10,8 @@
   | 이동제 | Project Leader, 프로젝트 리더 |
   | 손영빈 | Project member, 프로젝트 멤버 |
   | 박도월 | Project member, 프로젝트 멤버 |
+
+
+* Project Github : https://github.com/Doyun05/Olive_Old.git
+
+* 발표자료 :   
