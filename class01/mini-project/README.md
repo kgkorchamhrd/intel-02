@@ -1,5 +1,18 @@
 # Mini Project  
 
+### 05_Team: just_dance
+ 
+<동작의 유사성을 판단해 점수를 주는 프로그램>
+
+-Members
+|Name|Role|
+|김우석|Project reader|
+|엄재식|Project member|
+|허환욱|Project member|
+
+-Project Github : https://github.com/BrotherHwan/LESSERAFIM.git
+
+-발표자료:
 
 ### 07_Team: gichan-Team
 
