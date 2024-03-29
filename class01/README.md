@@ -31,11 +31,13 @@
 
 ### 제출현황
 
-* HW#1 :
-* HW#2 :
-* HW#3 :
-* HW#4 :
-* HW#5 :
+* HW#1 : [Class01 HW#1] Github issue 실습
+* HW#2 : [Class01 HW#2] Github PR 실습 - <내이름> [https://github.com/kgkorchamhrd/intel-02/issues/1].
+* HW#3 : [Class01 HW#3] Github PR 실습 - Table 수정 [https://github.com/kgkorchamhrd/intel-02/issues/62].
+* HW#4 : [Class01 HW#4] GD optimization 실습 [https://github.com/kgkorchamhrd/intel-02/issues/105].
+* HW#5 : [Class01 HW#5] Perceptron & ANN 실습 [https://github.com/kgkorchamhrd/intel-02/issues/140].
+* HW#6 : [Class01 HW#6] CNN 실습 [https://github.com/kgkorchamhrd/intel-02/issues/142].
+* HW#7 : 
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | HW#4 | HW#5 | Reviewer |
 |-------------------------------|---------|------|------|------|------|------|----------|
@@ -44,7 +46,7 @@
 | 03 KimJeongMoon (JEONGMOONKIM) | n/a | - | - | - | - | - | max5982 |
 | 04 KimJeongJin (moa000) | n/a | - | - | - | - | - | max5982 |
 | 05 ParkDoWol (Doyun05) | n/a | - | - | - | - | - | max5982 |
-| 06 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 06 BAEBuehee (BAEgAHee) | n/a | - | - | - | - | - | max5982 |
 | 07 Sonyounbin (youngbin-son) | n/a | - | - | - | - | - | max5982 |
 | 08 SongGiChan (gichan-song) | n/a | - | - | - | - | - | max5982 |
 | 09 ShinHyunTaek (shinht97) | n/a | - | - | - | - | - | max5982 |

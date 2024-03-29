@@ -38,7 +38,7 @@
 | 03 KimJeongMoon (JEONGMOONKIM) | n/a | - | - | - | - | - | max5982 |
 | 04 KimJeongJin (moa000) | n/a | - | - | - | - | - | max5982 |
 | 05 ParkDoWol (Doyun05) | n/a | - | - | - | - | litcoder |
-| 06 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 06 BAEBuehee (BAEgAHee) | n/a | - | - | - | - | litcoder |
 | 07 Sonyoungbin (youngbin-son) | n/a | - | - | - | - | litcoder |
 | 08 SongGiChan (gichan-song) | n/a | - | - | - | - | litcoder |
 | 09 ShinHyunTaek (shinht97) | n/a | - | - | - | - | litcoder |
