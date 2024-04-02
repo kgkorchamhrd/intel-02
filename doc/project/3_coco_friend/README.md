@@ -19,6 +19,9 @@
   7) 부모와의 소통 지원- 부모가 원격으로 로봇을 통해 아이와 소통할 수 있도록 지원합니다. 카메라와 마이크를 통해 아이의 상태를 확인하고, 음성 메시지나 영상 통화 기능을 제공할 수 있습니다
   8) 안전 감시 및 경고 시스템- 아이의 활동을 모니터링하고 위험한 상황이나 비정상적인 행동이 감지될 경우 즉시 부모나 보호자에게 알립니다. 이는 카메라, 소리 감지 센서, 움직임 감지 센서 등을 통해 구현될 수 있습니다.
 
+![cocofriend drawio](https://github.com/kgkorchamhrd/intel-02/assets/77429760/5c3e8aeb-cb80-43e0-a9ab-6847dd97bec2)
+
+
 ```shell
 git https://github.com/jinhoheoo/coco-friend-project
 ```
