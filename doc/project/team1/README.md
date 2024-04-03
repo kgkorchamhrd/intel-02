@@ -6,7 +6,7 @@ Pose Estimate, Face Tracking과 목소리 변환 AI를 이용하여 3D 모델을
 ## High Level Design
 
 * (프로젝트 아키텍쳐 기술, 전반적인 diagram 으로 설명을 권장)
-<img src="./design.png" width=400 height=500>
+<img src="./high_level_design.jpg" width=400 height=500>
 
 ## Clone code
 
