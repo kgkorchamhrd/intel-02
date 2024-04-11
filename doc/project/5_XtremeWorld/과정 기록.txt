@@ -1,0 +1,21 @@
+# 작업 폴더 : /home/intelai10/intel-02/doc/project/5_XtremeWorld
+
+# 기본파일 : project.ipynb
+
+# 트레이닝할 파일: .../data/train
+## images에 이미지 삽입, labels에 이름 지정 파일
+
+## 이름 형식: KBO.(팀명).(용품종류+번호).jpg
+
+## 팀명 이니셜 : LG, SSG, NC, SSU, DOO, KIA, WHA, KT, LOT, KIW
+
+# 관중석 사진을 스캔하거나 중계 영상을 사용
+
+
+# 매커니즘
+학습 앱 : ???(YOLOv3 유력. 예시 코드 가져와서 용도에 맞게 수정 중.)
+
+아직 미구현된 것 들 : window destroy 후 창에 원정팬 수 표기
+
+
+
