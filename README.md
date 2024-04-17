@@ -87,23 +87,24 @@ $ find ./ -iname *.bin|xargs ls -l
 * 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
 
 
-~~### Team: 100만 버튜버~~  
+### ~~Team: 100만 버튜버~~  
 ~~<프로젝트 요약>~~
-~~Pose Estimate, Face Tracking, Voice Changer를 이용하여 Virtual Character를 만드는 프로그램~~
-~~* Members~~
-  ~~| Name | Role |~~
-  ~~|----|----|~~
-  ~~| 김정문 | Project leader, 프로젝트를 총괄하고 망하면 책임진다. |~~
-  ~~| 신현택 | Projecy Member, 리더와 매니저의 스케쥴 관리를 잘 따라 프로젝트를 진행한다 |~~
-  ~~| 임민우 | Project Manager, 프로젝트의 진행 상황을 관리한다. |~~
+~~Pose Estimate, Face Tracking, Voice Changer를 이용하여 Virtual Character를 만드는 프로그램~~  
+~~* Members~~  
+  | Name | Role |  
+  |----|----|  
+  | ~~김정문~~ | ~~Project leader, 프로젝트를 총괄하고 망하면 책임진다.~~ |  
+  | ~~신현택~~ | ~~Projecy Member, 리더와 매니저의 스케쥴 관리를 잘 따라 프로젝트를 진행한다.~~ |  
+  | ~~임민우~~ | ~~Project Manager, 프로젝트의 진행 상황을 관리한다.~~ |  
 
-~~* Project Github : https://github.com/JEONGMOONKIM/VR_C~~
-~~* 발표자료 : https://github.com/kgkorchamhrd/intel-02/blob/main/doc/project/team1/presentation.ppt~~
+~~* Project Github : https://github.com/JEONGMOONKIM/VR_C~~  
+~~* 발표자료 : https://github.com/kgkorchamhrd/intel-02/blob/main/doc/project/team1/presentation.ppt~~  
 
 
 
 ### Team name : cp&mv
-<프로젝트 요약>
+<프로젝트 요약>  
+  OpenPose를 이용하여 원하는 동작을 따라하는 프로그램
 * Members
   | Name | Role |
   |----|----|
@@ -117,15 +118,17 @@ $ find ./ -iname *.bin|xargs ls -l
 
 
 ### Team name : Coco_Friend
-<프로젝트 요약>
+<프로젝트 요약>  
+  얼굴인식 : OpenCV(모델 빌드 및 학습), 대화 : LLM(챗봇,STT,TTS) 를 활용하여 맞벌이 부부 자녀 케어 AI
 * Members
   | Name | Role |
   |----|----|
-  ~~| 이동제 | Project lead, 프로젝트를 총괄한다. |~~
-  | 박도월 | Project manager, 프로젝트 이슈 진행상황을 관리한다. |
-  ~~| 손영빈 | Project member, 리더와 매니저의 말을 잘 따른다. |~~
-  | 허진호 | Project member, 리더와 매니저의 말을 잘 따른다. |
-  | 이가원 | Project member, 리더와 매니저의 말을 잘 따른다. |
+  | 허진호 | Project Lead, 리더와 매니저의 말을 잘 따른다. |
+  | 이가원 | Project manager, 리더와 매니저의 말을 잘 따른다. |
+  | 박도월 | Project member, 프로젝트 이슈 진행상황을 관리한다. |
+  | ~~이동제~~ | ~~Project lead, 프로젝트를 총괄한다.~~ |
+  | ~~손영빈~~ | ~~Project member, 리더와 매니저의 말을 잘 따른다.~~ |
+  
   
 * Project Github : https://github.com/jinhoheoo/coco-friend-project
 * 발표자료 : https://github.com/jinhoheoo/coco-friend-project/blob/main/03_coco_friend.pptx
