@@ -95,5 +95,5 @@ $ find ./ -iname *.bin|xargs ls -l
   | 안효재 | Project Member, 트레이닝 시각 자료 수집 |
   | ~~김정진~~ | ~~Project Member~~ |
 * Project Github : https://github.com/MobilSuper/team5proj.git
-* 발표자료 : https://github.com/MobilSuper/team5proj/team5slide.ppt
+* 발표자료 : https://github.com/MobilSuper/team5proj/blob/main/team5slide.ppt
 
