@@ -87,18 +87,18 @@ $ find ./ -iname *.bin|xargs ls -l
 * 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
 
 
-### Team: 100만 버튜버  
-<프로젝트 요약>
-Pose Estimate, Face Tracking, Voice Changer를 이용하여 Virtual Character를 만드는 프로그램  
-* Members
-  | Name | Role |
-  |----|----|
-  | 김정문 | Project leader, 프로젝트를 총괄하고 망하면 책임진다. |
-  | 신현택 | Projecy Member, 리더와 매니저의 스케쥴 관리를 잘 따라 프로젝트를 진행한다 |
-  | 임민우 | Project Manager, 프로젝트의 진행 상황을 관리한다. |
+~~### Team: 100만 버튜버~~  
+~~<프로젝트 요약>~~
+~~Pose Estimate, Face Tracking, Voice Changer를 이용하여 Virtual Character를 만드는 프로그램~~
+~~* Members~~
+  ~~| Name | Role |~~
+  ~~|----|----|~~
+  ~~| 김정문 | Project leader, 프로젝트를 총괄하고 망하면 책임진다. |~~
+  ~~| 신현택 | Projecy Member, 리더와 매니저의 스케쥴 관리를 잘 따라 프로젝트를 진행한다 |~~
+  ~~| 임민우 | Project Manager, 프로젝트의 진행 상황을 관리한다. |~~
 
-* Project Github : https://github.com/JEONGMOONKIM/VR_C
-* 발표자료 : https://github.com/kgkorchamhrd/intel-02/blob/main/doc/project/team1/presentation.ppt
+~~* Project Github : https://github.com/JEONGMOONKIM/VR_C~~
+~~* 발표자료 : https://github.com/kgkorchamhrd/intel-02/blob/main/doc/project/team1/presentation.ppt~~
 
 
 
@@ -107,7 +107,8 @@ Pose Estimate, Face Tracking, Voice Changer를 이용하여 Virtual Character를
 * Members
   | Name | Role |
   |----|----|
-  | 김우석 | Project lead, 프로젝트를 총괄한다. |
+  | 김우석 | Project member, 프로젝트 진행에 도움이 된다. |
+  | 신현택 | Project Leader, 프로젝트를 총괄한다. |
   | 엄재식 | Project manager, 프로젝트 이슈 진행상황을 관리한다. |
   | 허환욱 | Project member, 리더와 매니저의 말을 잘 따른다. |
   
@@ -120,9 +121,9 @@ Pose Estimate, Face Tracking, Voice Changer를 이용하여 Virtual Character를
 * Members
   | Name | Role |
   |----|----|
-  | 이동제 | Project lead, 프로젝트를 총괄한다. |
+  ~~| 이동제 | Project lead, 프로젝트를 총괄한다. |~~
   | 박도월 | Project manager, 프로젝트 이슈 진행상황을 관리한다. |
-  | 손영빈 | Project member, 리더와 매니저의 말을 잘 따른다. |
+  ~~| 손영빈 | Project member, 리더와 매니저의 말을 잘 따른다. |~~
   | 허진호 | Project member, 리더와 매니저의 말을 잘 따른다. |
   | 이가원 | Project member, 리더와 매니저의 말을 잘 따른다. |
   
