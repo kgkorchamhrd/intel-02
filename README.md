@@ -91,9 +91,9 @@ $ find ./ -iname *.bin|xargs ls -l
 * Members
   | Name | Role |
   |----|----|
-  | 송기찬 | Head, 기본 뼈대 및 코드 제작 |
+  |<span style="color:#808080"> 송기찬 </span>|<span style="color:#808080"> Head, 기본 뼈대 및 코드 제작 </span>|
   | 안효재 | Project Member, 트레이닝 시각 자료 수집 |
-  | 김정진 | Project Member |
+  |<span style="color:#808080"> 김정진 </span>|<span style="color:#808080"> Project Member </span>|
 * Project Github : https://github.com/MobilSuper/team5proj.git
-* 발표자료 : https://github.com/MobilSuper/team5proj/doc/slide.ppt
+* 발표자료 : https://github.com/MobilSuper/team5proj/doc/team5slide.ppt
 
