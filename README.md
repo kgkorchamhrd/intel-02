@@ -114,7 +114,7 @@ $ find ./ -iname *.bin|xargs ls -l
   | 허환욱 | Project member, 리더와 매니저의 말을 잘 따른다. |
   
 * Project Github : https://github.com/BrotherHwan/Final_project.git
-* 발표자료 : https://github.com/BrotherHwan/Final_project/blob/main/cp%26mv(final_project).pptx
+* 발표자료 : https://github.com/BrotherHwan/Final_project/blob/main/cp_and_mv_ver1.0/cp%26mv(final_project).pptx  
 
 
 ### Team name : Coco_Friend
@@ -159,5 +159,5 @@ Gesture Recognition, Image Classification & Localization, Speech 2 Text, Transla
   | 안효재 | Project Member, 트레이닝 시각 자료 수집 |
   | ~~김정진~~ | ~~Project Member~~ |
 * Project Github : https://github.com/MobilSuper/team5proj.git
-* 발표자료 : https://github.com/MobilSuper/team5proj/team5slide.ppt
+* 발표자료 : https://github.com/MobilSuper/team5proj/blob/main/team5slide.ppt
 
